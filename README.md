@@ -1,7 +1,7 @@
 
 <div align='center'><H1 >Hi there 👋, I'm Ömer Öztürk</H1>
 
-<h3>👀 I’m interested in .Net Core, Angular, Java, React</h3>
+<h3>👀 I’m interested in Mvc, .Net Core, Angular, Java, React</h3>
 
 <h3>📫 How to reach me...</h3>
 
