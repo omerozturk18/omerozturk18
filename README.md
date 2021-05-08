@@ -5,15 +5,14 @@
 
 <h3>📫 How to reach me...</h3>
 
-<a href="https://www.linkedin.com/in/ömer-öztürk-932256153/" title="Ömer Öztürk Linkedin"><img src="https://www.freeiconspng.com/uploads/images-linkedin-logo-png-14.png" width="150" alt="Ömer Öztürk" /></a>
+
 
  <p align='center'>
-<a href="https://twitter.com/_Omer_Ozturk_">
-   <img src=https://r.resimlink.com/i1RvoO.png?&style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/ömer-öztürk-932256153/">
-     <img src="https://img2.pngindir.com/20180406/jpq/kisspng-linkedin-logo-computer-icons-comcast-business-get-started-now-button-5ac6f544698595.9898331815229883564322.jpg?&style=for-the-badge&logo=linkedin&logoColor=white" />
- </a>
+
+              <a href="https://twitter.com/_Omer_Ozturk_" title="Ömer Öztürk Twitter"><img src="https://www.freeiconspng.com/uploads/twitter-icon--basic-round-social-iconset--s-icons-0.png" width="150" alt="Ömer Öztürk Twitter" /></a>
+              
+<a href="https://www.linkedin.com/in/ömer-öztürk-932256153/" title="Ömer Öztürk Linkedin"><img src="https://www.freeiconspng.com/uploads/images-linkedin-logo-png-14.png" width="150" alt="Ömer Öztürk Linkedin" /></a>
+
  <a href="mailto:omer_ozturk1997@hotmail.com">
        <img src="https://r.resimlink.com/79L4.png?&style=for-the-badge&logo=microsoft%20outlook&logoColor=white" />
 </a>
