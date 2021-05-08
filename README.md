@@ -5,7 +5,7 @@
 
 <h3>📫 How to reach me...</h3>
 
-
+<a href="https://www.freeiconspng.com/img/2037" title="Image from freeiconspng.com"><img src="https://www.freeiconspng.com/uploads/images-linkedin-logo-png-14.png" width="350" alt="Images linkedin logo png" /></a>
 
  <p align='center'>
 <a href="https://twitter.com/_Omer_Ozturk_">
