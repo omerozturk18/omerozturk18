@@ -9,9 +9,13 @@
 
  <p align='center'>
 
-              <a href="https://twitter.com/_Omer_Ozturk_" title="Ömer Öztürk Twitter"><img src="https://www.freeiconspng.com/uploads/twitter-icon--basic-round-social-iconset--s-icons-0.png" width="150" alt="Ömer Öztürk Twitter" /></a>
+<a href="https://twitter.com/_Omer_Ozturk_" title="Ömer Öztürk Twitter">
+   <img src="https://www.freeiconspng.com/uploads/twitter-icon--basic-round-social-iconset--s-icons-0.png" width="150" alt="Ömer Öztürk Twitter" />
+</a>
               
-<a href="https://www.linkedin.com/in/ömer-öztürk-932256153/" title="Ömer Öztürk Linkedin"><img src="https://www.freeiconspng.com/uploads/images-linkedin-logo-png-14.png" width="150" alt="Ömer Öztürk Linkedin" /></a>
+<a href="https://www.linkedin.com/in/ömer-öztürk-932256153/" title="Ömer Öztürk Linkedin">
+ <img src="https://www.freeiconspng.com/uploads/images-linkedin-logo-png-14.png" width="150" alt="Ömer Öztürk Linkedin" />
+</a>
 
  <a href="mailto:omer_ozturk1997@hotmail.com">
        <img src="https://r.resimlink.com/79L4.png?&style=for-the-badge&logo=microsoft%20outlook&logoColor=white" />
