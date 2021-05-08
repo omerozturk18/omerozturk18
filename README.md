@@ -17,9 +17,11 @@
  <img src="https://www.freeiconspng.com/uploads/images-linkedin-logo-png-14.png" width="150" alt="Ömer Öztürk Linkedin" />
 </a>
 
- <a href="mailto:omer_ozturk1997@hotmail.com">
-       <img src="https://r.resimlink.com/79L4.png?&style=for-the-badge&logo=microsoft%20outlook&logoColor=white" />
+<a href="mailto:omer_ozturk1997@hotmail.com" title="Ömer Öztürk Outlook">
+ <img src="https://www.freeiconspng.com/uploads/upgrading-to-outlook-2013--howto-outlook-14.png" width="150" alt="Ömer Öztürk Outlook" />
 </a>
+
+
 </p>
 
 <a href="https://github.com/omerozturk18"><img align="center" src="https://github-readme-stats.vercel.app/api?username=omerozturk18&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&icon_color=f1c40f&hide_border=true" /></a>
