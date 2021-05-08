@@ -12,7 +12,7 @@
    <img src=https://r.resimlink.com/i1RvoO.png?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/ömer-öztürk-932256153/">
-     <img src="https://r.resimlink.com/Z8gaqok.png?&style=for-the-badge&logo=linkedin&logoColor=white" />
+     <img src="https://r.resimlink.com/Z8gaqok.png" />
  </a>
  <a href="mailto:omer_ozturk1997@hotmail.com">
        <img src="https://r.resimlink.com/79L4.png?&style=for-the-badge&logo=microsoft%20outlook&logoColor=white" />
